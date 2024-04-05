@@ -11,3 +11,5 @@ preprocessed_data_correct_with_others.csv: The dataset with video category, titl
 video_classifier_only_titles.ipynb: Python script for training models that only use titles
 
 video_classifier_titles_and_descriptions.ipynb: Python script for training models that use both titles and descriptions
+
+best models: saved best models for using only titles and using both titles and descriptions
