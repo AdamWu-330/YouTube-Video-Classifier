@@ -2,7 +2,7 @@
 
 ECE1508 project for Group 17
 
-data_collection.ipynb: 
+data_collection.ipynb: Get the gnenerated video ids and categories from YouTube8M dataset and then obtain the real video ids. Use YouTube Data API to get the titles and descriptions of the YouTube videos.
 
 youtube_data_preprocessing.ipynb:
 
